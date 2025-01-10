@@ -1,0 +1,13 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                       Test Method: 'Testcase_02.sign_in'                                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Click "Sign in" @10-01-2025 19:32:23.0208 PM
+[ReportManager] Click "Email address" @10-01-2025 19:32:23.0354 PM
+[ReportManager] Type "Email address" @10-01-2025 19:32:23.0631 PM
+[ReportManager] Click "Password" @10-01-2025 19:32:23.0757 PM
+[ReportManager] Type "Password" @10-01-2025 19:32:23.0939 PM
+[ReportManager] Click " Sign in" @10-01-2025 19:32:24.0776 PM
+[ReportManager] Hover over "WOMEN". @10-01-2025 19:32:25.0493 PM
